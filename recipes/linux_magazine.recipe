@@ -17,8 +17,8 @@ class LinuxMagazine(BasicNewsRecipe):
     category = 'news, linux, open source, software'
     language = 'en'
     encoding = 'utf-8'
-    oldest_article = 2400
-    max_articles_per_feed = 500
+    oldest_article = 1080
+    max_articles_per_feed = 100
     no_stylesheets = True
     use_embedded_content = False
 
